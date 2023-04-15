@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\bin\Debug\Aplicatia3.exe.config
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\bin\Debug\Aplicatia3.exe
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\bin\Debug\Aplicatia3.pdb
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.Form1.resources
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.Properties.Resources.resources
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.csproj.GenerateResource.cache
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.exe
+C:\Users\user\Desktop\APD\lab_2\aplicatie3\Aplicatia3\Aplicatia3\obj\Debug\Aplicatia3.pdb

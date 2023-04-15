@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\Aplicatia2.exe
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\Aplicatia2.deps.json
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\Aplicatia2.runtimeconfig.json
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\Aplicatia2.runtimeconfig.dev.json
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\Aplicatia2.dll
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\ref\Aplicatia2.dll
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\bin\Debug\net5.0\Aplicatia2.pdb
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.AssemblyInfo.cs
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.dll
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\ref\Aplicatia2.dll
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.pdb
+C:\Users\user\Desktop\APD\lab_2\aplicatia2\Aplicatia2\Aplicatia2\obj\Debug\net5.0\Aplicatia2.genruntimeconfig.cache
