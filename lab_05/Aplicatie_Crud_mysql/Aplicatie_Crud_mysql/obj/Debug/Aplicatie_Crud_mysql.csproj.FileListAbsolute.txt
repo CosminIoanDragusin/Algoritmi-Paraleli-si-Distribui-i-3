@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\bin\Debug\Aplicatie_Crud_mysql.exe.config
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\bin\Debug\Aplicatie_Crud_mysql.exe
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\bin\Debug\Aplicatie_Crud_mysql.pdb
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.Form1.resources
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.Properties.Resources.resources
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.csproj.GenerateResource.cache
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.exe
+C:\Users\user\Desktop\APD\lab_05\Aplicatie_Crud_mysql\Aplicatie_Crud_mysql\obj\Debug\Aplicatie_Crud_mysql.pdb
