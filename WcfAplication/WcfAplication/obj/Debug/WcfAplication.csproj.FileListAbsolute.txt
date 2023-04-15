@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\APD\wcf\WcfAplication\WcfAplication\obj\Debug\WcfAplication.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\APD\wcf\WcfAplication\WcfAplication\obj\Debug\WcfAplication.csproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.Form1.resources
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\APD\wcf\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\XsdGeneratedCode\GeneratedXsdTypes.cs
